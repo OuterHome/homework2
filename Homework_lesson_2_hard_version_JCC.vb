@@ -1,7 +1,11 @@
 Sub Vba_homework()
 
-'create script that loops through each year of stock data
-'grabbing the total amount of volume by stock per year
+'This script loops through each year of stock data
+'grabbing the total amount of volume by stock per year,
+'as well as the yearly change for each stock, the percent
+'change by year, and a summary of the stock with the greatest
+'percent increase by year, the greatest percent decrease by year,
+'and the largest total stock volume by year.
 
 'Turn off screen updating until script completes
 'to increase speed (not sure if it helps for this script)
